@@ -1,0 +1,9 @@
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Menu1\Menu1\bin\Debug\Menu1.exe.config
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Menu1\Menu1\bin\Debug\Menu1.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Menu1\Menu1\bin\Debug\Menu1.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Menu1\Menu1\obj\Debug\TextReader.csprojResolveAssemblyReference.cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Menu1\Menu1\obj\Debug\Menu1.Form1.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Menu1\Menu1\obj\Debug\Menu1.Properties.Resources.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Menu1\Menu1\obj\Debug\TextReader.csproj.GenerateResource.Cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Menu1\Menu1\obj\Debug\Menu1.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Menu1\Menu1\obj\Debug\Menu1.pdb

@@ -1,0 +1,9 @@
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\addMenuElem\bin\Debug\addMenuElem.exe.config
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\addMenuElem\bin\Debug\addMenuElem.exe
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\addMenuElem\bin\Debug\addMenuElem.pdb
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\addMenuElem\obj\Debug\addMenuElem.csprojResolveAssemblyReference.cache
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\addMenuElem\obj\Debug\addMenuElem.Form1.resources
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\addMenuElem\obj\Debug\addMenuElem.Properties.Resources.resources
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\addMenuElem\obj\Debug\addMenuElem.csproj.GenerateResource.Cache
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\addMenuElem\obj\Debug\addMenuElem.exe
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\addMenuElem\obj\Debug\addMenuElem.pdb

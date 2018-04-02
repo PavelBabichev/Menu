@@ -1,0 +1,9 @@
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\Explorer\bin\Debug\Explorer.exe.config
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\Explorer\bin\Debug\Explorer.exe
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\Explorer\bin\Debug\Explorer.pdb
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\Explorer\obj\Debug\Explorer.csprojResolveAssemblyReference.cache
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\Explorer\obj\Debug\Explorer.Form1.resources
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\Explorer\obj\Debug\Explorer.csproj.GenerateResource.Cache
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\Explorer\obj\Debug\Explorer.exe
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\Menu1\Explorer\obj\Debug\Explorer.pdb
